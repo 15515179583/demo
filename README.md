@@ -2,7 +2,7 @@
 本仓库主要记录平常的一些小练习(｀・ω・´)
 我会把里面的内容做成目录展现出来
 *** 
-新增课程表（2019/9/5）
+新增课程表（2019/9/5）[demo](https://15515179583.github.io/demo/classTable/index.html)
 ***
 ### 学习笔记
 ##### [传送门](https://github.com/15515179583/demo/tree/master/webNote)
