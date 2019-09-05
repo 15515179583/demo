@@ -1,0 +1,58 @@
+body {
+  font-size: 10px; 
+}
+h1,h2,h3,h4,h5,h6 {
+  text-align: center;
+}
+.time {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 600px;
+  height: 25px;
+  font-size: 1.5em;
+}
+.time-h {
+  color: rgb(140, 172, 172);
+}
+table {
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+th {
+  width: 100px;
+  height: 40px;
+  border: 1px solid rgb(179, 219, 235);
+}
+td {
+  width: 100px;
+  height: 40px;
+  border: 1px solid skyblue;
+}
+.thisClass {
+  background-color: rgb(220, 236, 241); 
+}
+.state {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+  max-width: 600px;
+  height: 25px;
+  font-size: 1.5em;
+}
+span {
+  display: inline-block;
+  width: 70px;
+  text-align: center;
+  border-radius: 30px;
+  border: 1px solid skyblue;
+}
+.busy {
+  color: rgb(235, 245, 247);
+  background-color: rgb(224, 134, 134); 
+}
+.free {
+  color: rgb(235, 245, 247);
+  background-color: rgb(121, 248, 148); 
+}
