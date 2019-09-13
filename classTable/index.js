@@ -162,7 +162,6 @@ function showData() {
       td.innerHTML = element.name + '</br>' + element.address
       td.className = ''
       if(element.row == place.row && element.col == place.col) {
-        td.className = 'thisClass'
         span.textContent = '上课中'
         span.className = 'busy'
       } else {
@@ -171,6 +170,7 @@ function showData() {
       }
     }
   })
+  document.querySelector('#td' + place.row + '' + place.col).className = 'thisClass'
 }
 showData()
 function changeTime() {
