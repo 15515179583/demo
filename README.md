@@ -1,8 +1,8 @@
 # 介绍
-本仓库主要记录平常的一些小练习与课堂笔记(｀・ω・´)
+本仓库主要记录平常的一些小练习与课堂笔记(｀・ω・´)</br>
 我会把里面的内容做成目录展现出来
 *** 
-新增课程表（2019/9/5）[demo](https://15515179583.github.io/demo/classTable/index.html)
+新增课程表（2019/9/5）[demo](https://15515179583.github.io/demo/classTable/index.html)</br>
 新增课堂学习笔记/数据库原理/ (2019/10/3) [点此进入](https://github.com/15515179583/demo/tree/master/class)
 ***
 ### 学习笔记
