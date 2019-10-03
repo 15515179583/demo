@@ -1,5 +1,5 @@
 # 介绍
-本仓库主要记录平常的一些小练习与课堂笔记(｀・ω・´)<br>
+本仓库主要记录平常的一些小练习与课堂笔记(｀・ω・´)</br>
 我会把里面的内容做成目录展现出来
 *** 
 新增课堂学习笔记/数据库原理/ (2019/10/3) [点此进入](https://github.com/15515179583/demo/tree/master/class)</br>
@@ -7,8 +7,8 @@
 
 ***
 ### 学习笔记
-##### [前端](https://github.com/15515179583/demo/tree/master/webNote)
-##### [数据库](https://github.com/15515179583/demo/tree/master/class/sql)
+- [前端](https://github.com/15515179583/demo/tree/master/webNote)
+- [数据库](https://github.com/15515179583/demo/tree/master/class/sql)
 ### 布局练习
 此列表是用html5+css3实现的一些布局demo
 * 小米模块
